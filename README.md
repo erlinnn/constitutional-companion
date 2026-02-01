@@ -7,7 +7,6 @@ Users can describe a problem in normal language, and the application explains
 which Articles of the Indian Constitution may be relevant, in easy English.
 This project is only for legal awareness and education.
 
----
 
 ## What this application does
 
@@ -18,7 +17,6 @@ This project is only for legal awareness and education.
 - Shows confidence scores for suggested articles
 - Works without login and does not store user data
 
----
 
 ## Key Features
 
@@ -30,7 +28,6 @@ This project is only for legal awareness and education.
 - Mobile-friendly and responsive design
 - Progressive Web App (PWA)
 
----
 
 ## Technology Used
 
@@ -41,7 +38,6 @@ This project is only for legal awareness and education.
 - Serverless backend functions
 - AI-based reasoning logic
 
----
 
 ## Ethics and Safety
 
@@ -50,13 +46,11 @@ This project is only for legal awareness and education.
 - It does not replace a lawyer or legal authority
 - No personal data is collected or stored
 
----
 
 ## Live Demo (Working Model)
 
 👉 https://constitutional-companion.vercel.app/
 
----
 
 ## Use Cases
 
@@ -65,7 +59,6 @@ This project is only for legal awareness and education.
 - Legal awareness and education
 - Demonstration of ethical AI usage
 
----
 
 ## Author
 
